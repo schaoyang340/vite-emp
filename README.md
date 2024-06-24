@@ -1,7 +1,6 @@
-# Vue 3 + Vite
+该项目为后端项目的简单前端页面呈现。
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+后端项目： [SpringBoot-Mybatis-Learning_Records
+](https://github.com/schaoyang340/SpringBoot-Mybatis-Learning_Records)
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+本项目的说明笔记保存在Note文件夹中。
